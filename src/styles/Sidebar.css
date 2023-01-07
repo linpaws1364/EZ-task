@@ -1,0 +1,166 @@
+.sidebar{
+    font-family: 'Louis George Café', sans-serif !important;
+    /* background-color: grey; */
+    width: 465px;
+    height: 1080px;
+}
+
+.sideSide{
+    background-color: white;
+    width: 465px;
+    height: 85px;
+    padding: 0px 7px;
+    box-shadow: 0px 1px 6px #00000029;
+}
+
+.topSide{
+    background-color: white;
+    position: relative;
+    display: flex;
+    top:10px;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+}
+
+.topSideL{
+    background-color: white;
+    display: flex;
+    align-items:center;
+    height: 40px;
+}
+
+.logo{
+    font-size: 32px;
+    height: 40px;
+    background-color: white;
+}
+
+.fa-arrow-down-wide-short{
+    position: relative;
+    left: 40px;
+}
+
+.creation{
+    position: relative;
+    left: 40px;
+    background-color: white;
+    font-size: 14px;
+    color: #3CC3F2;
+}
+
+.fa-arrow-down-wide-short{
+    color: #3CC3F2;
+}
+
+.fa-square-plus{
+    color: #3CC3F2;
+    right: 7px;
+}
+
+.searchField{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    position: relative;
+    top: 10px;
+}
+
+.searcher{
+    background-color: white;
+    width: 457px;
+    border-radius: 5px;
+    padding: 1px 4px;
+    border: 1px solid grey;
+}
+
+.searcher::placeholder{
+    font-style: italic;
+    font-size: 14px;
+}
+
+.fa-magnifying-glass{
+    position: absolute;
+    background-color: white;
+    margin-right: 4px;
+    color: #3CC3F2;
+}
+
+#month{
+    width: 465px;
+    position: relative;
+    padding: 2px 4px;
+    box-shadow: 0px 1px 6px #00000029;
+}
+
+.menu{
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 2px 2px 2px #00000029;
+    margin-top: 4px;
+    width: 450px;
+    height: 45px;
+    padding: 4px;
+    margin-left: 7px;
+}
+
+.menuTop{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menuBottom{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menuHead{
+    color: #112949;
+    background-color: white;
+    font-size: 12px;
+}
+
+.menuHeadDes{
+    color: grey;
+    background-color: white;
+    font-size: 12px;
+}
+
+.menuSelect{
+    background-color: #112949;
+    border-radius: 8px;
+    box-shadow: 2px 2px 2px #00000029;
+    margin-top: 4px;
+    width: 450px;
+    height: 45px;
+    padding: 4px;
+    margin-left: 7px;
+}
+
+.menuTopSelect{
+    display: flex;
+    justify-content: space-between;
+    background-color: #112949;
+}
+
+
+.menuHeadSelect{
+    color: #EBF2F5;
+    background-color: #112949;
+    font-size: 12px;
+}
+
+.menuBottomSelect{
+    background-color: #112949;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menuHeadDesSelect{
+    color: #EBF2F5;
+    background-color: #112949;
+    font-size: 12px;
+}

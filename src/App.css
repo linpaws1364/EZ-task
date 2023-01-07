@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Louis George Café', sans-serif;
+    src: url(./assets/louis-george-cafe.regular.ttf);
+}
+
+*{
+    background-color: #EBF2F5;
+}
+
+.App{
+    display: flex;
+}
