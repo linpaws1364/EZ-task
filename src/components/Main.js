@@ -357,7 +357,7 @@ function Main() {
           <span
             style={{
               fontSize: "16px",
-              color: "#112949",
+              color: "#EA7B2C",
               marginRight: "63px",
             }}
           >
